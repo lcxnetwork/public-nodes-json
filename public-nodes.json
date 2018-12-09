@@ -6,11 +6,5 @@
       "port": 10002,
       "ssl": false
     },
-    {
-      "name": "Test",
-      "url": "12.345.567.79",
-      "port": 10002,
-      "ssl": false
-    },
   ]
 }

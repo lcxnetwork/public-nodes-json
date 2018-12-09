@@ -1,8 +1,8 @@
 {
-  "name": "turtlecoin-nodes-json",
+  "name": "public-nodes-json",
   "version": "0.0.1",
   "description": "json list of public daemons",
-  "main": "turtlecoin-nodes.json",
+  "main": "public-nodes.json",
   "directories": {
     "test": "tests"
   },
@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turtlecoin/turtlecoin-nodes-json.git"
+    "url": "git+https://github.com/Biolith/public-nodes-json.git"
   },
   "keywords": [
-    "turtlecoin",
+    "Aeon Classic",
     "public",
     "nodes"
   ],
   "author": "The TurtleCoin Developers",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/turtlecoin/turtlecoin-nodes-json/issues"
+    "url": "https://github.com/Biolith/public-nodes-json/issues"
   },
-  "homepage": "https://github.com/turtlecoin/turtlecoin-nodes-json#readme"
+  "homepage": "https://github.com/Biolith/public-nodes-json#readme"
 }

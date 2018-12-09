@@ -1,7 +1,7 @@
 'use strict'
 
 const assert = require('assert')
-const data = require('../turtlecoin-nodes.json')
+const data = require('../public-nodes.json')
 
 var seenNodes = []
 
