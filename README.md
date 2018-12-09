@@ -2,7 +2,7 @@
 
 JSON list of public daemons for TurtleCoin (https://turtlecoin.lol).
 
-This list can be consumed in your application so you'll always have an up-to-date list of public nodes. To consume the list, use the following URL: https://raw.githubusercontent.com/Biolith/turtlecoin-nodes-json/master/turtlecoin-nodes.json
+This list can be consumed in your application so you'll always have an up-to-date list of public nodes. To consume the list, use the following URL: https://raw.githubusercontent.com/Biolith/public-nodes-json/master/turtlecoin-nodes.json
 
 ### Adding a New Node
 
