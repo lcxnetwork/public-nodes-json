@@ -2,7 +2,19 @@
   "nodes": [
     {
       "name": "Hashblaster Public Node",
-      "url": "95.179.197.19",
+      "url": "hashblaster.com",
+      "port": 10002,
+      "ssl": false
+    }
+        {
+      "name": "Aeon Classic Official Explorer Node",
+      "url": "explorer.aeonclassic.org",
+      "port": 10002,
+      "ssl": false
+    }
+    {
+      "name": "XMLC.ML Public Node",
+      "url": "xmlc.ml",
       "port": 10002,
       "ssl": false
     }
