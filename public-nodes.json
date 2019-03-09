@@ -8,12 +8,12 @@
 		},
 		{
 			"name": "Official BlockExplorer Node",
-			"url": "explorer.aeonclassic.org",
+			"url": "explorer.lightchain.net",
 			"port": 10002,
 			"ssl": false
 		},
 		{
-			"name": "XMLC WebWallet Node",
+			"name": "WebWallet Node",
 			"url": "xmlc.ml",
 			"port": 10002,
 			"ssl": false
